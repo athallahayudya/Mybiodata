@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bio</string>
+    <string name="hobi">Hobi</string>
+    <string name="alamat">Alamat</string>
+    <string name="kelas">Kelas</string>
+    <string name="ttl">TTL</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="hasil_bio">hasil_bio</string>
+</resources>
